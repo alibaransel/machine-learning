@@ -1,0 +1,7 @@
+# Node modules
+node/node_modules/
+node/package-lock.json
+
+# Generated Dataset
+common/js_objects/
+data/dataset/
